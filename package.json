@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Vision-X/massivejs-getstarted#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "massive": "^6.1.3"
+    "massive": "^6.1.3",
+    "pg-monitor": "^1.3.1"
   }
 }
